@@ -6,7 +6,10 @@ public class Feature1 {
 		// TODO Auto-generated method stub
 	System.out.println("This is my Java project");
 	System.out.println("This is for feature1 for testing demo java project.");
-	System.out.println("This is for feature1 for testing demo java project TEST 123");
+	System.out.println("This is for feature1 for testing demo java project");
+
+	System.out.println("This is for feature1 Enhancement");
+
 
 	}
 
